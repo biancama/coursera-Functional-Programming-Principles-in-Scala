@@ -7,10 +7,17 @@
 .lib/
 dist/*
 target/
+.idea/
+.project
+.classpath
+.settings/
 lib_managed/
 src_managed/
 project/boot/
 project/plugins/project/
+project/
+recitations/
+submission/
 
 # Scala-IDE specific
 .scala_dependencies
